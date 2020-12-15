@@ -23,10 +23,10 @@ dataset_type = 'DOIR_Dataset'  # for DIOR
 [The codes](/configs/0.%20TGRS-sampling-balance-detector) can repreduce the expeiremnts in the paper.
 
 
-##2. The overall architecture of the proposed detector.
+## 2. The overall architecture of the proposed detector.
 ![method image](images/proposed_method.png)
 
-##3. Some prediction examples of the proposed method on the NWPU VHR-10 data set (Green boxes are the correct predictions. Blue boxes are the false predictions. Red boxes are the missing predictions).
+## 3. Some prediction examples of the proposed method on the NWPU VHR-10 data set (Green boxes are the correct predictions. Blue boxes are the false predictions. Red boxes are the missing predictions).
 ![NWPU image](images/NWPU.png)
 
 
