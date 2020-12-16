@@ -13,12 +13,11 @@ version of MMdetection should be download first, which can ensure the codes to b
 
 You should first prepare the used dataset as VOC format. 
 
-Three datasets NWPU-VHR10, DIOR, HRRSD are implemented in the branch. If you use one of them, you can set：
+Three datasets NWPU-VHR10, DIOR, HRRSD are implemented in the branch. If you use one of them, you can set 
 
 dataset_type = 'VOCDataset'  # for NWPU10
 
 dataset_type = 'HRRSD_Dataset' # for HRRSD
-
 dataset_type = 'DOIR_Dataset'  # for DIOR
 
 [The codes](/configs/0.%20TGRS-sampling-balance-detector) can repreduce the expeiremnts in the paper.
